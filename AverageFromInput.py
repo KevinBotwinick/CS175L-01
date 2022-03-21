@@ -1,3 +1,8 @@
+#CS-175-L
+#Kevin Botwinick
+#AverageFromInputFile
+
+
 def main():
     numbers_file = open('numbers.txt', 'r')
 
